@@ -10,12 +10,9 @@
 
 <br />
 
-
-
-
-<h2 align="center">
+<h3 align="center">
   ❣️ Apoie o projeto ❣️ 
-</h2>
+</h3>
 <p align="center">
   Aplicação desenvolvida na mentoria gratuita do <a target="_blank" href="https://diversifica.dev/">DiversificaDev</a> que visa estimular a <i>diversidade de gênero,<br /> orientação sexual, raça/etnia e a inclusão de pessoas com deficiências</i> na área de tecnologia.
   </p>
