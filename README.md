@@ -10,15 +10,27 @@
 
 <br />
 
-Projeto desenvolvido na mentoria gratuita do projeto [DiversificaDev](https://diversifica.dev/) que visa estimular a <i>diversidade de gênero, orientação sexual, raça/etnia e a inclusão de pessoas com deficiências</i> na área de tecnologia.
+
+
+
+<h2 align="center">
+  ❣️ Apoie o projeto ❣️ 
+</h2>
+<p align="center">
+  Aplicação desenvolvida na mentoria gratuita do <a target="_blank" href="https://diversifica.dev/">DiversificaDev</a> que visa estimular a <i>diversidade de gênero,<br /> orientação sexual, raça/etnia e a inclusão de pessoas com deficiências</i> na área de tecnologia.
+  </p>
+  <p align="center">
+  Segue a gente no <a href="https://www.instagram.com/diversificadev/">Instagram</a>, curta e compartilhe : )
+</p>
 
 <br />
+
 <p align="center">
   <img align="center" width="600" src="https://diversifica.dev/wp-content/uploads/2022/12/Screen-Shot-2022-12-19-at-13.23.15-1024x561.png">
 </p>
 
 
-
+## Sobre 
 <strong>Aplicação em React</strong> com Styled Components que gera um timer para gestão do tempo com a técnica Pomodoro.
 
 ## Rode a aplicação no seu computador
