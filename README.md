@@ -1,5 +1,5 @@
 <h1 align="center">
-  Pomodoro Timer com React e Styled Components
+  Pomodoro Timer com React
 </h1>
 
 <div style"display: inline_block" align="center">
