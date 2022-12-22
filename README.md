@@ -8,6 +8,7 @@
 </div>
 
 <br />
+
 Projeto desenvolvido na mentoria gratuita do projeto [DiversificaDev](https://diversifica.dev/) que visa estimular a diversidade de gênero, orientação sexual, raça/etnia e a inclusão de pessoas com deficiências na área de tecnologia.
 
 <br />
