@@ -1,4 +1,5 @@
 # React app com Pomodoro Timer
+
 <div style"display: inline_block">
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=white" />
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=white" />
@@ -11,7 +12,6 @@
 
 Projeto desenvolvido na mentoria gratuita do projeto [DiversificaDev](https://diversifica.dev/) que visa estimular a diversidade de gênero, orientação sexual, raça/etnia e a inclusão de pessoas com deficiências na área de tecnologia.
 
-<br />
 <br />
 <p align="center">
   <img align="center" width="600" src="https://diversifica.dev/wp-content/uploads/2022/12/Screen-Shot-2022-12-19-at-13.23.15-1024x561.png">
