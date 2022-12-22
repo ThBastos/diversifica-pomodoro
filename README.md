@@ -1,16 +1,16 @@
-# React app com Pomodoro Timer
+# Pomodoro Timer com React e Styled Components
 
 <div style"display: inline_block">
-  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=white" />
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=white" />
   <img aling="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-282a36?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=html5&logoColor=white" />
   <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 <br />
 
-Projeto desenvolvido na mentoria gratuita do projeto [DiversificaDev](https://diversifica.dev/) que visa estimular a diversidade de gênero, orientação sexual, raça/etnia e a inclusão de pessoas com deficiências na área de tecnologia.
+Projeto desenvolvido na mentoria gratuita do projeto [DiversificaDev](https://diversifica.dev/) que visa estimular a <i>diversidade de gênero, orientação sexual, raça/etnia e a inclusão de pessoas com deficiências</i> na área de tecnologia.
 
 <br />
 <p align="center">
@@ -22,8 +22,30 @@ Projeto desenvolvido na mentoria gratuita do projeto [DiversificaDev](https://di
 <strong>Aplicação em React</strong> com Styled Components que gera um timer para gestão do tempo com a técnica Pomodoro.
 
 ## Rode a aplicação no seu computador
-Baixe o projeto:
+Abra o terminal, navegue até a pasta onde deseja baixar o projeto e execute o comando:
 ```
-Lorem ipsum
+git clone https://github.com/ThBastos/diversifica-pomodoro.git
 ```
+Navegue até a pasta do projeto:
+```
+cd diversifica-pomodoro
+```
+Você precisa ter o NPM ou Yarn instalado na sua máquina para rodar o projeto, essas ferramentas instalam as dependências listadas no package.json. Na pasta do projeto execute o comando:
+```
+npm install OU yarn install
+```
+Após instalar todas as dependências, rode o projeto com o comando:
+```
+npm start
+```
+Uma mensagem como da imagem abaixo deve aparecer:
+<p align="center">
+  <img align="center" width="600" src="https://diversifica.dev/arquivos/diversifica-pomodoro-running.png">
+</p>
+
+Para acessar a aplicação acesse [http://localhost:3000](http://localhost:3000).
+
+Caso algo tenha saído errado você pode deixar nos comentários desse post que vamos tentar te ajudar:
+
+
 
