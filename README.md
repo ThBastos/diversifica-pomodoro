@@ -1,6 +1,8 @@
-# Pomodoro Timer com React e Styled Components
+<h1 align="center">
+  Pomodoro Timer com React e Styled Components
+</h1>
 
-<div style"display: inline_block">
+<div style"display: inline_block" align="center">
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=white" />
   <img aling="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-282a36?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=white" />
