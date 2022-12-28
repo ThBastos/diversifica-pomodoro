@@ -10,8 +10,8 @@ function App() {
   const [textIniciar, setTextIniciar] = useState('Iniciar');
   const [textMinutes, setTextMinutes] = useState('25');
 
-  const audioClick = useMemo(() => new Audio('/click.mp3'), []);
-  const audioDingDong = useMemo(() => new Audio('/ding-dong.mp3'), []);
+  const audioClick = useMemo(() => new Audio('https://thbastos.github.io/diversifica-pomodoro/click.mp3'), []);
+  const audioDingDong = useMemo(() => new Audio('https://thbastos.github.io/diversifica-pomodoro/ding-dong.mp3'), []);
 
   const getTimeRemaining = (e) => {
     const total = Date.parse(e) - Date.parse(new Date());
